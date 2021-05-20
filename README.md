@@ -1,4 +1,8 @@
-# intoroduction
+---
+description: intoroduction
+---
+
+# Game Finance
 
 Introduction.
 
@@ -11,6 +15,18 @@ The code for the Game DeFi dapp and contract is available on github. It is prima
 GAME is a perpetual deflation token that provides a constant price pump with an adequate burn mechanism. We are not trying to replace swaps or exchanges, but to add value to the system and create a suitable and sustainable environment where people can earn profits at higher APRs.
 
 Our farm and pool are stablecoins and value coins \(BTC, ETH, BNB...\). Other top 20 coins available on the Binance smartchain\).Game DeFi will be dedicated to conservative players seeking large APYs with little to no indefinite loss \(IL\).
+
+Features
+
+Burning mechanism to constantly increase the price of the token
+
+2% burn fee for every deposit on the farm and in the pool \(current rate, but may change in the future\).
+
+The burn transaction fee will be used for the following purposes
+
+・Buying and burning Game
+
+・Airdrop and marketing
 
 Earn We will do our best to provide GAME owners and players with the true value of the tokens.
 
@@ -41,8 +57,4 @@ Our contract is based on Goose Finance, which is great because Goose Finance has
 [https://certik.org/projects/goose-finance](https://certik.org/projects/goose-finance)
 
 You can check and compare directly on our github and bscscan that our Masterchef contract is the same as Goose Finance's Masterchef contract. Please check the contract page.
-
-Next Page Fair held
-
-Translated with www.DeepL.com/Translator \(free version\)
 

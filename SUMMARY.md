@@ -1,4 +1,4 @@
 # Table of contents
 
-* [intoroduction](README.md)
+* [Game Finance](README.md)
 
