@@ -6,11 +6,11 @@ description: intoroduction
 
 Introduction.
 
-Game DeFi Finance is a yield farming Dapp that runs on the Binance Smart Chain and Pancake swap exchange with a cool new feature that allows you to earn GAME tokens.
+Game Finance is a yield farming Dapp that runs on the Binance Smart Chain and Pancake swap exchange with a cool new feature that allows you to earn GAME tokens.
 
 We will be very transparent in this documentation and in the community.
 
-The code for the Game DeFi dapp and contract is available on github. It is primarily a fork inspired by the great Goose Finance project and is an EGG token because we love the tokenomics of this project and want to improve it to the next level.
+The code for the Game Finance dapp and contract is available on github. This is primarily a fork inspired by the great Goose Finance project, and is a GAME token out of love for the project's tokenomics and desire to have fun while profiting from it.
 
 GAME is a perpetual deflation token that provides a constant price pump with an adequate burn mechanism. We are not trying to replace swaps or exchanges, but to add value to the system and create a suitable and sustainable environment where people can earn profits at higher APRs.
 
